@@ -1,6 +1,6 @@
 # 👋 Olá, mundo!
 
-  <div>📚 7º semestre ADS na FATEC-MC</div>
+  <div>📚 8º semestre ADS na FATEC-MC</div>
   <div>✉️ Contato: leonardo.utani@fatec.sp.gov.br</div>
   <div>💻 Back-end programmer na SmartControlPro</div>
 
