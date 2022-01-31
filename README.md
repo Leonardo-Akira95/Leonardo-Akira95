@@ -3,8 +3,10 @@
   <div>📚 8º semestre ADS na FATEC-MC</div>
   <div>✉️ Contato: leonardo.utani@fatec.sp.gov.br</div>
   <div>💻 Back-end programmer na SmartControlPro</div>
-
-</br>
+  </br>
+  <p>Atuei por dois anos no desenvolvimento de plataformas Web no setor de IoT em soluções agrícolas e domiciliais, entregando para o usuário final o atual estado do seu negócio. Trabalhei desenvolvendo dispositivos de ponta com o protocolo LoRA e MQTT, criação de REST APIs, entregando a solução de forma gráfica em dashboards reativas com ReactJS, Firebase e NodeJS.
+  </p>
+  </br>
 
 🌐 WEB:
 <div style="display: inline_block">
