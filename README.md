@@ -4,7 +4,8 @@
   <div>✉️ Contato: l.akira.dev@outlook.com</div>
   <div>💻 Back-end programmer na SmartControlPro</div>
   </br>
-  <p>Atuei por dois anos no desenvolvimento de plataformas Web no setor de IoT em soluções agrícolas e domiciliais, entregando para o usuário final o atual estado do seu negócio. Trabalhei desenvolvendo dispositivos de ponta com o protocolo LoRA e MQTT, criação de REST APIs, entregando a solução de forma gráfica em dashboards reativas com ReactJS, Firebase e NodeJS.
+  <p>
+  Amante de tecnologia. Profissional no mercado desde 2019, atuando como desenvolvedor full-stack de sistemas Web no setor de IoT em soluções agrícolas e domiciliais.
   </p>
   </br>
 
