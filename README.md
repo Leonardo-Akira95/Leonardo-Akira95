@@ -1,11 +1,13 @@
 # 👋 Olá, mundo!
 
-  <div>📚 8º semestre ADS na FATEC-MC</div>
+  <div>📚 Formado em Análise e desenvolvimento de sistemas na FATEC-MC</div>
   <div>✉️ Contato: l.akira.dev@outlook.com</div>
-  <div>💻 Back-end programmer na SmartControlPro</div>
+  <div>💻 Front-end developer na Muralis Tecnologia</div>
   </br>
   <p>
-  Amante de tecnologia. Profissional no mercado desde 2019, atuando como desenvolvedor full-stack de sistemas Web no setor de IoT em soluções agrícolas e domiciliais.
+  Amante de tecnologia.
+  Atuei como desenvolvedor full-stack de sistemas Web no setor de IoT em soluções agrícolas e domiciliais.
+  Atualmente estou mergulhando de cabeça em desenvolvimento front-end com VueJS ✌️
   </p>
   </br>
 
@@ -17,17 +19,13 @@
   <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="VueJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   &nbsp
    |
   &nbsp
   <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  &nbsp
-   |
-  &nbsp
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
 
 </br>
