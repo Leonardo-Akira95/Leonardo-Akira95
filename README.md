@@ -1,7 +1,7 @@
 # Olá!
 
   <p>
-    Vendendo meus botões utilizando alguns frameworks do mercado há 6 anos.
+    Vendendo meus botões e utilizando alguns frameworks do mercado há 4 anos.
   </p>
   
   </br>
